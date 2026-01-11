@@ -2,7 +2,6 @@
 
 # Çok Fonksiyonlu Taban Dönüştürücüsü
 Bu proje, farklı sayı tabanları arasında dönüşüm yapabilen çok fonksiyonlu bir dönüştürücüyü içermektedir.
-https://github.com/nisaderin-codes/BLM101_25360859335_NisaDerinErdogan/raw/main/CokFonksiyonluTabanDonusturucu.pdf
 
 ## Anlatım Videosu
 https://youtu.be/KkEWiZuFVno
@@ -10,6 +9,8 @@ https://youtu.be/KkEWiZuFVno
 ## İçerik
 - main.py : Taban dönüştürme işlemlerini yapan Python dosyası
 - cokFonksiyonluTabanDonusturucusu.pdf : Proje raporu
+- https://github.com/nisaderin-codes/BLM101_25360859335_NisaDerinErdogan/raw/main/CokFonksiyonluTabanDonusturucu.pdf
+
 
 ## Desteklenen Dönüşümler
 - Decimal → Binary
