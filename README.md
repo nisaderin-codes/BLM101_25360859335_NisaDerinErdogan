@@ -1,7 +1,7 @@
 # Nisa Derin ERDOĞAN-25360859335
 
 # Çok Fonksiyonlu Taban Dönüştürücüsü
-Bu proje, farklı sayı tabanları arasında dönüşüm yapabilen çok fonksiyonlu bir dönüştürücüyü içermektedir.
+Bu proje kapsamında, onluk tabandaki sayıların ikilik (binary) ve onaltılık (hexadecimal) tabana dönüştürülmesi amaçlanmıştır. Ayrıca elde edilen sonuçların bilgisayar belleğinde 8-bitlik bloklar halinde nasıl temsil edildiği gösterilmiştir. Negatif sayıların gösterimi için Two’s Complement yöntemi kullanılmıştır. Proje, algoritma mantığını pekiştirmek ve sayı sistemlerinin bilgisayar bilimlerindeki önemini kavramak amacıyla geliştirilmiştir.
 
 ## Anlatım Videosu
 https://youtu.be/KkEWiZuFVno
